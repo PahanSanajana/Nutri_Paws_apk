@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NutriPaws</string>
+    <string name="tagline">Helping Your Dog Thrive</string>
+    <string name="intro_message">Explore high-quality dog food and get the best nutrition tips for your furry friend.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="app_logo_description">NutriPaws App Logo</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up_redirect" />
+    <string name="email_hint">Enter your email</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="confirm_password_hint">Confirm your password</string>
+    <string name="register">Register</string>
+    <string name="go_back_to_login">Already have an account? Login</string>
+    <string name="profile_header">My Profile</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email: user@example.com</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="address_hint">Enter your address</string>
+    <string name="payment_method_hint">Enter payment method (e.g., Card)</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_description">Product description goes here</string>
+    <string name="product_price">$29.99</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="total">Total:</string>
+    <string name="empty_cart_message">Your cart is empty!</string>
+    <string name="proceed_to_checkout">Proceed to Checkout</string>
+</resources>
