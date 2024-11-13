@@ -27,4 +27,19 @@
     <string name="total">Total:</string>
     <string name="empty_cart_message">Your cart is empty!</string>
     <string name="proceed_to_checkout">Proceed to Checkout</string>
+
+    <string-array name="product_filters">
+        <item>All Products</item>
+        <item>Brand</item>
+        <item>Type</item>
+        <item>Age</item>
+    </string-array>
+
+    <string-array name="sort_options">
+        <item>Default</item>
+        <item>Price: Low to High</item>
+        <item>Price: High to Low</item>
+        <item>Top Rated</item>
+    </string-array>
+
 </resources>
